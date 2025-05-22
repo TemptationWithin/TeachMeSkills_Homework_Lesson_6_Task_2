@@ -1,11 +1,11 @@
 # TeachMeSkills_Homework_Lesson_6_Task_2
-/** ЗАДАЧА 2
- * Есть массив целых числел.
- * 	Необходимо удалить дубликаты из массива и отсортировать.
- * 	На вход метод будет получать первоначальный массив,
- * 	на выход метод будет возвращать отсортированный массив без дубликатов.
- *
- * 	Что практикуем в этом задании:
- * 		- построение алгоритмов
- * 		- управляющие конструкции, операции ветвления
- **/
+/** TASK 2
+* There is an array of integers.
+* It is necessary to remove duplicates from the array and sort it.
+* The method will receive the initial array as input,
+* the method will return a sorted array without duplicates as output.
+*
+* What we practice in this task:
+* - constructing algorithms
+* - control structures, branching operations
+**/
